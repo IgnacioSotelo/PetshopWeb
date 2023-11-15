@@ -26,3 +26,8 @@ footer ul li a:hover {
 .div__footer__img {
     padding-top: 30px;
 }
+
+.div__footer__contacto a {
+    text-decoration: none;
+    color: #fff;
+}
