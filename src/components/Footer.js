@@ -31,7 +31,7 @@ const Footer = () => {
                                     ventas.smartproductos@gmail.com
                                 </a>
                             </div>
-                            <div>
+                            <div className='div__footer__mapa'>
                                 <iframe width="100%" height="200" frameborder="0" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=es&amp;q=Somellera%20515%20Adrogue+(Mi%20nombre%20de%20egocios)&amp;t=&amp;z=16&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.gps.ie/car-satnav-gps/">Sat Navs</a></iframe>
                             </div>
                         </div>
