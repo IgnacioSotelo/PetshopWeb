@@ -31,3 +31,7 @@ footer ul li a:hover {
     text-decoration: none;
     color: #fff;
 }
+
+.div__footer__mapa {
+    margin-top: 20px;
+}
