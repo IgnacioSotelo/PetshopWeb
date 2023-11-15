@@ -66,3 +66,16 @@
     border-radius: 3px;
     padding: 3px 10px;
 }
+
+.div__span__destacado {
+    z-index: 10;
+    text-align: end;
+    position: absolute;
+    right: 10px;
+}
+
+.div__span__destacado span {
+    color: rgb(255, 115, 0);
+    font-weight: 600;
+    font-size: 20px;
+}
