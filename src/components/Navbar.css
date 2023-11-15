@@ -1,0 +1,54 @@
+nav {
+    background-color: #222;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    transition: all ease 0.1s;
+    z-index: 20;
+}
+
+.div__nav__contenido {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.div__nav__contenido * {
+}
+
+.div__input__busqueda {
+    width: 500px;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.div__input__busqueda input{
+    border: none;
+    padding: 10px 12px;
+    border-radius: 50px 0 0 50px;
+    outline: none;
+    width: 80%;
+}
+
+.div__input__busqueda span button{
+    border: none;
+    background-color: #fff;
+    border-radius: 0 50% 50% 0;
+    padding: 10px;
+    height: 100%;
+    cursor: pointer;
+}
+
+.div__numeromail {
+    padding: 10px;
+}
+
+.div__numeromail span{
+    display: block;
+    margin: 2px;
+    font-size: 14px;
+}
+
+.div__numeromail i {
+    margin: 0px 8px;
+}

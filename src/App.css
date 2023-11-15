@@ -1,0 +1,32 @@
+body {
+  background-color: #333;
+  color: #fff;
+}
+
+.div__items1 {
+}
+
+.wrapper-container {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  width: 100%;
+  max-width: 1320px;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+}
+
+.img__background {
+  margin-top: 85px;
+}
+
+.blur {
+  background-color: rgba(30,30,30,0.5);
+  backdrop-filter: blur(20px);
+  padding: 0;
+}

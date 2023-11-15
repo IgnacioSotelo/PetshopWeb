@@ -1,0 +1,9 @@
+.section__itemContainer {
+    overflow-y: scroll;
+    background-color: #eee;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
