@@ -34,11 +34,11 @@ const Navbar = () => {
                     <div className='div__numeromail'>
                         <span>
                             <i className="fa-solid fa-phone"></i>
-                            1141842100
+                            112030-3985
                         </span>
                         <span>
                             <i className="fa-regular fa-envelope"></i>
-                            smartproductos@gmail.com
+                            ventas.smartproductos@gmail.com
                         </span>
                     </div>
                 </div>
