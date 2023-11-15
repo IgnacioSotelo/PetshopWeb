@@ -38,7 +38,9 @@ const Navbar = () => {
                         </span>
                         <span>
                             <i className="fa-regular fa-envelope"></i>
+                            <a href="mailto:ventas.smartproductos@gmail.com">
                             ventas.smartproductos@gmail.com
+                            </a>
                         </span>
                     </div>
                 </div>
