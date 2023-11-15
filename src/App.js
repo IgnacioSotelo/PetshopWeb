@@ -16,14 +16,10 @@ function App() {
                     <img className="img__background" src={Background1} alt='background' width={"100%"}></img>
                 </div>
             </div>
-
-
+        
             <div className="wrapper-container">
                 <div className="container">
                     <Titulo texto="Productos Destacados"/>
-                    
-
-            
                     <ItemConteiner destacados={true} />
                     <Titulo texto="Producto para perros"/>
                     <ItemConteiner destacados={false} filtro="perro" altura={655}/>
